@@ -4,9 +4,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://shields.io" alt="Email" /></a>
+  <a href="https://linkedin.com"><img src="https://img.icons8.com/color/1200/linkedin.jpg" alt="LinkedIn" /></a>
+  <a href="mailto:your.truongthanhminh209@gmail.com"><img src="https://p7.hiclipart.com/preview/622/810/454/computer-icons-email-stock-photography-resume.jpg" alt="Email" /></a>
 </p>
 
 ---
