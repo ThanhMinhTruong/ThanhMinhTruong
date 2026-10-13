@@ -4,8 +4,8 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.icons8.com/color/1200/linkedin.jpg" alt="LinkedIn" /></a>
-  <a href="mailto:your.truongthanhminh209@gmail.com"><img src="https://p7.hiclipart.com/preview/622/810/454/computer-icons-email-stock-photography-resume.jpg" alt="Email" /></a>
+  <a href="https://linkedin.com"><img src="https://img.icons8.com/color/1200/linkedin.jpg" alt="LinkedIn" width="400" height="400" /></a>
+  <a href="mailto:your.truongthanhminh209@gmail.com"><img src="https://p7.hiclipart.com/preview/622/810/454/computer-icons-email-stock-photography-resume.jpg" width = "400" height = "400" alt="Email " /></a>
 </p>
 
 ---
