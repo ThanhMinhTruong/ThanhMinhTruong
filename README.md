@@ -26,14 +26,6 @@
 * **Tools & Platforms:** `Git`, `GitHub`, `VS Code`, `Linux`, `Docker`
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180rc" src="https://vercel.app" alt="GitHub Stats" />
-  <img height="180" src="https://vercel.app" alt="Top Languages" />
-</p>
-
 ---
 
 ### 📫 Connect with Me
