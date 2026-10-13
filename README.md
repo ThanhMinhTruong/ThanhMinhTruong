@@ -17,6 +17,8 @@
 * ⚡ Fun fact: I spend most of my time debugging code, drinking iced coffee, and exploring open-source projects.
 
 ---
+## 🎯 Objective
+High-achieving 2nd-year Computer Science student (Sophomore) at **Hanoi University of Science and Technology (HUST)** partnered with **Troy University (USA)**. Seeking a **Software Engineer Intern / Backend Engineer Intern** position. Eager to leverage strong foundations in Data Structures & Algorithms, Object-Oriented Design, Database Systems, and hands-on data pipeline & backend development to contribute to high-impact production engineering teams.
 
 ### 🛠️ Tech Stack & Tools
 
@@ -25,7 +27,7 @@
 * **Tools & Platforms:** `Git`, `GitHub`, `VS Code`, `Linux`, `Docker`
 
 ---
-### 🚀 TECHNICAL PROJECTS
+### 🚀 Technical Projects
  **Healthcare Data QA & Validation Pipeline (ETL Validator)** | *Python, Pandas, Defensive Programming, Synthea™*
 *GitHub:* [github.com/ThanhMinhTruong/Medical-Data-Validator](https://github.com/ThanhMinhTruong/Medical-Data-Validator)
 * Engineered a robust Data Quality Assurance (QA) pipeline in Python to ingest and validate messy healthcare billing datasets (10,000+ records generated via Synthea™ under HIPAA compliance).
@@ -41,7 +43,7 @@
 * Designed a clean state management loop to handle user session configurations, interrupt signals, and status tracking directly within the terminal.
 ---
 
-## 🏆 CERTIFICATIONS & ACTIVITIES
+## 🏆 Certifications & Activities
 * **LeetCode Problem Solving:** Actively practicing core algorithmic patterns (Arrays, Two Pointers, Trees, Graphs, Dynamic Programming) based on NeetCode 150.
 * **Continuous Self-Learning:** Completed practical tracks in Python Data Analysis, Algorithmic Foundations, and Systems Programming.
 ### 📫 Connect with Me
