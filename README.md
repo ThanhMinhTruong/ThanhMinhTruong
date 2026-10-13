@@ -25,8 +25,25 @@
 * **Tools & Platforms:** `Git`, `GitHub`, `VS Code`, `Linux`, `Docker`
 
 ---
+### 🚀 TECHNICAL PROJECTS
+ **Healthcare Data QA & Validation Pipeline (ETL Validator)** | *Python, Pandas, Defensive Programming, Synthea™*
+*GitHub:* [github.com/ThanhMinhTruong/Medical-Data-Validator](https://github.com/ThanhMinhTruong/Medical-Data-Validator)
+* Engineered a robust Data Quality Assurance (QA) pipeline in Python to ingest and validate messy healthcare billing datasets (10,000+ records generated via Synthea™ under HIPAA compliance).
+* Architected a two-tier validation engine:
+  * **Schema Validation ("The Bouncer"):** Instantly validates column headers, rejecting malformed files before downstream resource allocation.
+  * **Content Rules Engine:** Enforces domain constraints using defensive programming—cleans currency strings, verifies non-negative financial values (`BASE_COST`, `PAYER_COVERAGE`), and resolves missing `STOP` dates for ongoing prescriptions.
+* Eliminated downstream pipeline crashes by handling corrupt data types, empty strings, and `NaN` values gracefully without unhandled exceptions.
+* Built automated terminal audit reports mapping exact record IDs and row numbers to specific violated rules, reducing data debugging turnaround time for analytics teams.
+
+**Terminal Pomodoro & Focus Manager** | *Python, OS Interface, State Machine*
+*GitHub:* [github.com/ThanhMinhTruong/Pomodoro-Project](https://github.com/ThanhMinhTruong/Pomodoro-Project)
+* Developed a command-line productivity timer utilizing Python's `time` module and structured control flows to govern customized work-break intervals.
+* Designed a clean state management loop to handle user session configurations, interrupt signals, and status tracking directly within the terminal.
 ---
 
+## 🏆 CERTIFICATIONS & ACTIVITIES
+* **LeetCode Problem Solving:** Actively practicing core algorithmic patterns (Arrays, Two Pointers, Trees, Graphs, Dynamic Programming) based on NeetCode 150.
+* **Continuous Self-Learning:** Completed practical tracks in Python Data Analysis, Algorithmic Foundations, and Systems Programming.
 ### 📫 Connect with Me
 
 * **University:** Hanoi University of Science and Technology (HUST)
