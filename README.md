@@ -1,11 +1,11 @@
-<div align="center">
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/b95344c7-d7be-4d42-955b-a772d6d44aca" /><div align="center">
   <h1 align="center">Hi there 👋, I'm Trương Thành Minh</h1>
   <h3 align="center">Computer Science Student @ Hanoi University of Science and Technology (HUST)</h3>
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.icons8.com/color/1200/linkedin.jpg" alt="LinkedIn" width="400" height="400" /></a>
-  <a href="mailto:your.truongthanhminh209@gmail.com"><img src="https://p7.hiclipart.com/preview/622/810/454/computer-icons-email-stock-photography-resume.jpg" width = "400" height = "400" alt="Email " /></a>
+  <a href="https://linkedin.com"><img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-square-blue-icon-transparent-png-701751694974202rnqtz6b1gn.png" alt="LinkedIn" width="42" height="42" /></a>
+  <a href="mailto:your.truongthanhminh209@gmail.com"><img src=https://png.pngtree.com/png-clipart/20191120/original/pngtree-email-icon-png-image_5065641.jpg" width = "42" height = "42" alt="Email " /></a>
 </p>
 
 ---
