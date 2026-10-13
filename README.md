@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-square-blue-icon-transparent-png-701751694974202rnqtz6b1gn.png" alt="LinkedIn" width="42" height="42" /></a>
+  <a href="www.linkedin.com/in/thanh-minh-8077942b8"><img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-square-blue-icon-transparent-png-701751694974202rnqtz6b1gn.png" alt="LinkedIn" width="42" height="42" /></a>
   <a href="mailto:your.truongthanhminh209@gmail.com"><img src="https://www.pngitem.com/pimgs/m/115-1151321_mail-email-icon-for-resume-blue-hd-png.png" width = "42" height = "42" alt="Email " /></a>
 </p>
 
