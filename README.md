@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+  <h1 align="center">Hi there 👋, I'm [Trương Thành Minh]</h1>
   <h3 align="center">Computer Science Student @ Hanoi University of Science and Technology (HUST)</h3>
 </div>
 
